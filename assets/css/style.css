@@ -57,7 +57,7 @@
     width: 100%;
     background: lightgrey;
     border-radius: 5px;
-    display: none;
+    display: none !important;
 }
 .inticator span.weak:before{
     background-color: #ff4757;
